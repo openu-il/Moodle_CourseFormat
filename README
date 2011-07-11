@@ -1,0 +1,21 @@
+OpenU IL Accordion Topics Course Format
+-----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------
+Description
+----------------------------------------------------
+
+A Moodle course format "accordion topics" which allows the topics to be minimized and maximized.
+
+
+----------------------------------------------------
+Installation Information
+----------------------------------------------------
+
+1. Copy "ouil" directory to moodle/course/format.
+2. After you have copied the files you may choose this course format from inside Moodle.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Developed by: The Open University of Israel	Packaged by: http://www.atarplpl.co.il		Licence: GNU-GPL
